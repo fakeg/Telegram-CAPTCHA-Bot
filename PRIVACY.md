@@ -4,7 +4,7 @@
 
 1. 信息使用
 
-   当您在群组内加入[本 Bot](https://t.me/toorucaptchabot)并且赋予其封禁用户的权限时，即表示您已经同意本隐私协议并且允许我们以评估负载和请求量的目的记录每一次请求并且存储下列数据:  
+   当您在群组内加入[本 Bot](https://t.me/CAPTCHA_Xtao_bot)并且赋予其封禁用户的权限时，即表示您已经同意本隐私协议并且允许我们以评估负载和请求量的目的记录每一次请求并且存储下列数据:  
 
    - 群组标题
    - 群组ID
@@ -12,7 +12,7 @@
 
     除此之外，我们不会记录与收集任何与如上内容无关的消息内容与记录。
 
-2. 本Bot代码除配置文件外全部开源于[GitHub 项目主页](https://github.com/Tooruchan/Telegram-CAPTCHA-bot)上，供各位用户进行审阅。
+2. 本Bot代码除配置文件外全部开源于[GitHub 项目主页](https://github.com/xtaodada/Telegram-CAPTCHA-bot)上，供各位用户进行审阅。
 
 3. 信息公开
 
